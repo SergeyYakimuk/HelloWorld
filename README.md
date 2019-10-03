@@ -1,4 +1,0 @@
-# HelloWorld
-Training
- 
-New change.
